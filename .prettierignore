@@ -1,0 +1,7 @@
+dist/
+.wxt/
+.output/
+node_modules/
+*.md
+package-lock.json
+*.log
