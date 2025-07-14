@@ -1,3 +1,7 @@
+export interface ExtractOptions {
+  useReadability: boolean;
+}
+
 export interface ExtractedContent {
   title: string;
   content: string;
